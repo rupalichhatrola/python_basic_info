@@ -1,0 +1,32 @@
+INFO:root:this is my info log 
+WARNING:root:this is my warning log 
+ERROR:root:this is my error log
+INFO:root:this is my info log
+WARNING:root:this is my warniing log 
+ERROR:root:this is my an error log
+INFO:root:this is a start of my code and i am try to enter 4 and 5
+INFO:root:executed succ
+INFO:root:this is a start of my code and i am try to enter 4 and 0
+ERROR:root:Errog has happend 
+ERROR:root:Exception occured division by zero
+Traceback (most recent call last):
+  File "C:\Users\Rupali\AppData\Local\Temp\ipykernel_7508\3472579529.py", line 4, in divbyzero
+    div = a/b
+ZeroDivisionError: division by zero
+ERROR:root:Exception occurred
+Traceback (most recent call last):
+  File "C:\Users\Rupali\AppData\Local\Temp\ipykernel_7508\2363292298.py", line 6, in <cell line: 5>
+    c = a / b
+ZeroDivisionError: division by zero
+DEBUG:root:Harmless debug Message
+INFO:root:Information only
+WARNING:root:Its a Warning Mesage
+ERROR:root:Did you try to divide by zero
+CRITICAL:root:Internet speed is down
+INFO:root:this is my info log
+WARNING:root:this is my warniing log 
+DEBUG:root:this is my debug log 
+ERROR:root:this is my an error log
+INFO:root:this is my info log 
+WARNING:root:this is my warning log 
+ERROR:root:this is my error log
